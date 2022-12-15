@@ -1,0 +1,18 @@
+
+Nome: felipe peixoto
+CEP: 03571020
+idade: 37
+Comorbidade: diabete 
+
+
+Nome: talita pereira
+CEP: 03585020
+idade: 64
+Comorbidade: diabete 
+
+
+Nome: ziza miguel
+CEP: 03578030
+idade: 71
+Comorbidade: pressao alta 
+

@@ -1,0 +1,12 @@
+
+Nome: gustavo sales
+CPF: 123.456.789-85
+CEP: 03578030
+Telefone: 11-978852556
+Idade: 35
+
+Nome: dulce muniz
+CPF: 147.258.369-89
+CEP: 03571020
+Telefone: 11-980315658
+Idade: 62

@@ -1,0 +1,46 @@
+
+Nome: felipe peixoto
+CPF: 346.789.258-89
+E-mail: felipesales78@hotmail.com
+Rua: rua cartaxo
+Numero: 01
+Bairro: pq savoi city
+CEP: 03571020
+Telefone: 43991782552
+Data de diagnostico: 10/11/2022
+Nome: gustavo sales
+CPF: 123.456.789-85
+E-mail: gustavo.sales@hotmail.com
+Rua: otavio duarte
+Numero: 123
+Bairro: cidade lider
+CEP: 03578030
+Telefone: 11-978852556
+Data de diagnostico: 13/11/2022
+Nome: dulce muniz
+CPF: 147.258.369-89
+E-mail: dulcemuniz78@gmail.com
+Rua: algusto severo
+Numero: 1233
+Bairro: vila olimpia
+CEP: 03571020
+Telefone: 11-980315658
+Data de diagnostico: 10/11/2022
+Nome: talita pereira
+CPF: 123.456.789-89
+E-mail: tatapereira@hotmail.com
+Rua: antonio sardo
+Numero: 202
+Bairro: jd nova amarica
+CEP: 03585020
+Telefone: 11-980317858
+Data de diagnostico: 12/11/2022
+Nome: ziza miguel
+CPF: 147.852.369-85
+E-mail: zizamiguel@hotmail.com
+Rua: tiguis
+Numero: 250
+Bairro: vila casone
+CEP: 03578030
+Telefone: 11-980315658
+Data de diagnostico: 10/11/2022
